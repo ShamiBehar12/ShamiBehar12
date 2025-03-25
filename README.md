@@ -1,11 +1,27 @@
-"# Sobre m�" 
-## Descripción 📌  
-Breve detalle sobre mi  
 
-## Gustos y carrera 🛠️  
-Tengo 22 años, me apasiona el desarrollo de tecnologías que aporten valor a la sociedad. Estudio I.Civil eléctrica ,estoy en el quinto año de la carrera. Me especialice en Machine Learning, Computer vision y NLP. 
+## Sobre mí
+## Descripción 📌
+¡Hola! 👋 Soy Shami Behar, un apasionado por la intersección entre la ingeniería eléctrica y la ciencia de datos. Con 22 años, busco me gustan las tecnologías innovadoras que generen impacto social, combinando hardware y software para resolver problemas complejos.
 
-También me gusta el desarrollo de software, la electronica y la robotica. Trate de mezclar mi carrera para que sea eléctrica+dcc.
+## Formación académica 🎓
+Ingeniería Civil Eléctrica (5° año) - Universidad de Chile
 
+## Especializaciones:
 
+Machine Learning (modelos predictivos, algoritmos supervisados/no supervisados).
 
+Computer Vision (procesamiento de imágenes, detección de objetos).
+
+NLP (procesamiento de lenguaje natural, chatbots, transformers).
+Integro conocimientos de eléctrica con programación (Python, TensorFlow, PyTorch).
+
+## Pasiones y habilidades 🛠️
+Desarrollo de software: Aplicaciones escalables en Python, automatización de procesos.
+
+Electrónica y robótica: Diseño de sistemas embebidos (Arduino, Raspberry Pi), IoT.
+
+## Proyectos destacados:
+Segmentación de explosivos y extracción de características usando Computer Vision (CNN´s)
+
+## Objetivos 🚀
+A corto plazo: Terminar mi carrera con un proyecto de título que integre IA multimodal 
