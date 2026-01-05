@@ -1,27 +1,36 @@
+About Me
 
-## Sobre mí
-## Descripción 📌
-¡Hola! 👋 Soy Shami Behar, un apasionado por la intersección entre la ingeniería eléctrica y la ciencia de datos. Con 22 años, busco me gustan las tecnologías innovadoras que generen impacto social, combinando hardware y software para resolver problemas complejos.
+Hi! 👋 I’m Shami Behar, an Electrical Engineer with a strong focus on Artificial Intelligence and Data Science. I’m particularly interested in building applied AI solutions that combine engineering principles with machine learning to solve real-world problems.
 
-## Formación académica 🎓
-Ingeniería Civil Eléctrica (5° año) - Universidad de Chile
+My background spans Machine Learning, Computer Vision, and Natural Language Processing, with hands-on experience developing predictive models, computer vision systems, and LLM-based solutions. I enjoy working at the intersection of hardware, software, and data, especially on projects with social and industrial impact.
 
-## Especializaciones:
+I have experience building end-to-end AI prototypes using Python, modern ML frameworks, and data-driven pipelines, and I’m constantly learning and experimenting with new technologies in applied AI.
 
-Machine Learning (modelos predictivos, algoritmos supervisados/no supervisados).
+Education
 
-Computer Vision (procesamiento de imágenes, detección de objetos).
+B.Sc. in Electrical Engineering (Data Science & AI focus)
+University of Chile
 
-NLP (procesamiento de lenguaje natural, chatbots, transformers).
-Integro conocimientos de eléctrica con programación (Python, TensorFlow, PyTorch).
+Technical Interests
 
-## Pasiones y habilidades 🛠️
-Desarrollo de software: Aplicaciones escalables en Python, automatización de procesos.
+Machine Learning (supervised and unsupervised models)
 
-Electrónica y robótica: Diseño de sistemas embebidos (Arduino, Raspberry Pi), IoT.
+Computer Vision (image processing, pose estimation, object detection)
 
-## Proyectos destacados:
-Segmentación de explosivos y extracción de características usando Computer Vision (CNN´s)
+Natural Language Processing (LLMs, transformers, chatbots)
 
-## Objetivos 🚀
-A corto plazo: Terminar mi carrera con un proyecto de título que integre IA multimodal 
+Applied AI systems and prototyping
+
+Skills & Tools
+
+Programming: Python
+
+ML / AI: TensorFlow, PyTorch, scikit-learn
+
+Computer Vision: OpenCV, MediaPipe
+
+Systems: Embedded systems, IoT (Arduino, Raspberry Pi)
+
+Goals
+
+🚀 To grow as an AI / ML Engineer, contributing to impactful projects in healthcare, industry, and emerging technologies, while continuously improving my technical depth and problem-solving skills.
